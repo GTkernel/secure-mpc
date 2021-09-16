@@ -1,0 +1,10 @@
+cat test3.txt | grep AND | wc -l
+cat test4.txt | grep AND | wc -l
+cat test5.txt | grep AND | wc -l
+cat test6.txt | grep AND | wc -l
+cat test7.txt | grep AND | wc -l
+cat test8.txt | grep AND | wc -l
+cat test9.txt | grep AND | wc -l
+cat test10.txt | grep AND | wc -l
+cat test11.txt | grep AND | wc -l
+cat test12.txt | grep AND | wc -l

@@ -1,0 +1,13 @@
+**/build
+**/relic
+**/emp-m2pc
+**/emp-ot
+**/emp-readme
+**/emp-sh2pc
+**/emp-tool
+**/emp-pvc
+**/emp-ag2pc
+**/emp-agmpc
+**/Session.vim
+**/install.py
+CMakeFiles/
